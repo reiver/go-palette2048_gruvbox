@@ -38,6 +38,6 @@ Also see:
 
 * https://github.com/reiver/go-palette2048
 
-## Solarized
+## gruvbox
 
 To learn more about the gruvbox color palette refer to: https://github.com/morhetz/gruvbox
